@@ -3,4 +3,5 @@ crewai
 openai
 langchain-openai
 python-dotenv
+pydantic
 pandas
