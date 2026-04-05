@@ -1,0 +1,11 @@
+email_id,subject,body,sender_email,timestamp,priority
+EM001,App Crash Report,The app crashes whenever I try to generate reports on my Samsung Galaxy S22 running Android 13.,user1@gmail.com,2026-02-10 10:30:00,High
+EM002,Login Issue,I am unable to login after updating the app to version 3.1.0. Please help.,user2@gmail.com,2026-02-11 11:45:00,High
+EM003,Feature Request Dark Mode,Please add dark mode support it will improve usability at night.,user3@gmail.com,2026-02-12 09:20:00,Medium
+EM004,Performance Issue,The app is very slow when loading dashboard data.,user4@gmail.com,2026-02-13 14:10:00,Medium
+EM005,App Freeze Issue,App freezes when exporting data to CSV.,user5@gmail.com,2026-02-14 15:25:00,High
+EM006,Feature Suggestion Calendar Integration,It would be great to integrate with Google Calendar.,user6@gmail.com,2026-02-15 12:40:00,Low
+EM007,Crash on File Upload,App crashes while uploading PDF files.,user7@gmail.com,2026-02-16 16:50:00,High
+EM008,Feedback Great App,I really enjoy using your app great work.,user8@gmail.com,2026-02-17 13:05:00,Low
+EM009,Data Sync Problem,Data is not syncing across my devices.,user9@gmail.com,2026-02-18 10:15:00,High
+EM010,Subscription Pricing Concern,Subscription is expensive compared to similar apps.,user10@gmail.com,2026-02-19 17:30:00,Medium

@@ -1,0 +1,17 @@
+review_id,platform,rating,review_text,user_name,date,app_version
+REV001,Google Play,1,App crashes every time I try to open the dashboard after the latest update,Rahul Sharma,10-02-2026,3.1.0
+REV002,App Store,5,Absolutely love this app very useful and easy to use,Priya Nair,11-02-2026,3.1.0
+REV003,Google Play,2,Unable to login keeps showing authentication error,Arjun Kumar,12-02-2026,3.0.5
+REV004,App Store,4,Please add dark mode it will help during night usage,Sneha Iyer,12-02-2026,3.1.0
+REV005,Google Play,3,App performance is slow while loading reports,Karthik Reddy,13-02-2026,3.0.9
+REV006,App Store,5,Great productivity app helps me stay organized,Divya Menon,13-02-2026,3.1.0
+REV007,Google Play,1,App freezes when clicking export button,Manoj Patel,14-02-2026,3.1.0
+REV008,App Store,4,Would love to see integration with Google Calendar,Ananya Singh,15-02-2026,3.1.0
+REV009,Google Play,2,Data sync is not working between devices,Vikram Joshi,15-02-2026,3.0.8
+REV010,App Store,5,Excellent app very smooth and fast,Nisha Kapoor,16-02-2026,3.1.0
+REV011,Google Play,1,App crashes during login on Android 14,Deepak Verma,17-02-2026,3.1.1
+REV012,App Store,3,Subscription price is too high compared to competitors,Ritu Agarwal,18-02-2026,3.1.0
+REV013,Google Play,4,Please add offline mode functionality,Suresh Babu,18-02-2026,3.1.1
+REV014,App Store,5,Very helpful app for daily productivity tasks,Kavya Nair,19-02-2026,3.1.1
+REV015,Google Play,1,Application crashes when uploading files,Ramesh Gupta,20-02-2026,3.1.1
+REV016,App Store,3,"Hi, Click the link to get the huge offer",Isha Shiv,21-02-2026,3.1.1
